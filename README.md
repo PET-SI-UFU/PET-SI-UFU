@@ -21,7 +21,8 @@ Here are some ideas to get you started:
                 <h3>Bem vindo!</h3>
                 <p>"O Programa de Educação Tutorial propicia aos estudantes atividades extracurriculares sob a orientação de um tutor."
                 </p>
-                <p>Desenvolva habilidades essenciais para conseguir um bom estágio, e tenha sucesso na faculdade</p>
+                <p>Acrescente experiências e habilidades ao seu portfólio.
+                   Desenvolva habilidades essenciais para conseguir um bom estágio, e tenha sucesso na faculdade</p>
             </section>
             <section>
                 <h3>Atividades</h3>
