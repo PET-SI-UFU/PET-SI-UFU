@@ -34,7 +34,7 @@ Here are some ideas to get you started:
                 <h3>Github Stats</h3>
                 <div align="left">
                     <a href="https://github.com/PET-SI-UFU">
-                    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PET-SEI-UFU&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+                    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PET-SI-UFU&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
                     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PET-SI-UFU&layout=compact&langs_count=7&theme=github_dark"/>
                 </div>
             </section>
